@@ -124,5 +124,5 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 GRAPHENE = {
-    "SCHEMA": "graphql_project.schema.schema"  # path to schema object
+    "SCHEMA": "alx_backend_graphql_crm.schema.schema"  # path to schema object
 }
